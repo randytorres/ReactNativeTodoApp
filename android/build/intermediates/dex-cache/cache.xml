@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/pre-dexed/debug/classes-a11bdc69452bc3d890321f6232f77ee90d7518f0.jar" />
+    </item>
+    <item
+        jar="/Users/randytorres/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-3ef5f30abd9ceb0dacda2c5b33597b81c2cd6b94.jar" />
+    </item>
+    <item
+        jar="/Users/randytorres/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-fe003541b3cb606c025fff42cd3e2552b15f1ff4.jar" />
+    </item>
+    <item
+        jar="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/pre-dexed/debug/classes-f0f9675605a1ec278caea026e16eb349fa91668b.jar" />
+    </item>
+    <item
+        jar="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.36.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="20c0d9382c06e0c7e105e2f5af6ade9f1dbf2170">
+        <dex dex="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/pre-dexed/debug/classes-e6a7d9bcc44814eec9d006b066a4f03599ed39de.jar" />
+    </item>
+    <item
+        jar="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/pre-dexed/debug/classes-edc8a46aec628b95dd33228948e3a54118264cac.jar" />
+    </item>
+    <item
+        jar="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/pre-dexed/debug/classes-55dcf9f03b20bebbec08dddbca63261cc3320df6.jar" />
+    </item>
+    <item
+        jar="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/pre-dexed/debug/classes-6d38208b1b893e85e9d201838eae90a378bfee35.jar" />
+    </item>
+    <item
+        jar="/Users/randytorres/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-596b5bb955d659b0b67ab2dfa6b9ed631dbd6bb4.jar" />
+    </item>
+    <item
+        jar="/Users/randytorres/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-8511d1ff71eba434d6fa84089630b35294160127.jar" />
+    </item>
+    <item
+        jar="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.36.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="3dae5cf34cd90e5e9adce76ae6d475456ca99c74">
+        <dex dex="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-9351b164a80970695264987f23b1b5365dc56427.jar" />
+    </item>
+    <item
+        jar="/Users/randytorres/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-4d692c996a3588799a5454c8a4a51e75367c3214.jar" />
+    </item>
+    <item
+        jar="/Users/randytorres/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-13a683961a0644513ce3271642a25d8e40a06afe.jar" />
+    </item>
+    <item
+        jar="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/pre-dexed/debug/classes-f299ccbb1cea18e59ba5d0c928a7fcace7f59da4.jar" />
+    </item>
+    <item
+        jar="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/pre-dexed/debug/classes-4684a0d7969fc4abbc859534b0b01627a43954d8.jar" />
+    </item>
+    <item
+        jar="/Users/randytorres/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-b2a2e1049ab75a7ab6d00de31caac255cb0b11d4.jar" />
+    </item>
+    <item
+        jar="/Users/randytorres/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-c333b38fc395c784c349bc1f4d8493d6432edac8.jar" />
+    </item>
+    <item
+        jar="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/pre-dexed/debug/classes-c482cfcc6765e240b339d099ae31eef1a3fcacfc.jar" />
+    </item>
+    <item
+        jar="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/pre-dexed/debug/classes-7e49ddbccdf6c9962e5695cd18b06dd4ee22908c.jar" />
+    </item>
+    <item
+        jar="/Users/randytorres/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-e0f94b25249046ab2f467fbdbe9191c7bc65ac6c.jar" />
+    </item>
+    <item
+        jar="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-1f015c969550c2ace89c000c14eb68e5f5b69ccb.jar" />
+    </item>
+    <item
+        jar="/Users/randytorres/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-de52c6148a834293bc3fbf8122e524132949f037.jar" />
+    </item>
+    <item
+        jar="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/randytorres/Desktop/React/Todo/android/app/build/intermediates/pre-dexed/debug/classes-f17c3e59d012e557ccb4ac0808ee2c7531ffffe5.jar" />
+    </item>
+
+</items>
